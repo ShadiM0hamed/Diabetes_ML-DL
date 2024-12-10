@@ -32,20 +32,7 @@ The dataset used for training models contains the following features:
 - **Outcome**: The target variable indicating whether the individual has diabetes (1) or not (0).
 
 ### Sample Data:
-
-```python
-data = {
-    "Pregnancies": [6, 1, 8],
-    "Glucose": [148, 85, 183],
-    "BloodPressure": [72, 66, 64],
-    "SkinThickness": [35, 29, 0],
-    "Insulin": [0, 0, 0],
-    "BMI": [33.6, 26.6, 23.3],
-    "DiabetesPedigreeFunction": [0.627, 0.351, 0.672],
-    "Age": [50, 31, 32],
-    "Outcome": [1, 0, 1],
-}
-```
+Data Source : https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 ## Models Used
 
@@ -101,11 +88,7 @@ Gradio is used to create an interactive web interface that allows users to input
 
 1. Clone the repository or download the script.
 2. Install the necessary libraries using `pip install -r requirements.txt`.
-3. Run the script:
-
-```bash
-python diabetes_prediction.py
-```
+3. Run the script.
 
 This will launch the Gradio interface in your browser.
 
