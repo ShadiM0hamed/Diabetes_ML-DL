@@ -31,21 +31,9 @@ The dataset used for training models contains the following features:
 - **Age**: Age of the individual.
 - **Outcome**: The target variable indicating whether the individual has diabetes (1) or not (0).
 
-### Sample Data:
+### Data:
 
-```python
-data = {
-    "Pregnancies": [6, 1, 8],
-    "Glucose": [148, 85, 183],
-    "BloodPressure": [72, 66, 64],
-    "SkinThickness": [35, 29, 0],
-    "Insulin": [0, 0, 0],
-    "BMI": [33.6, 26.6, 23.3],
-    "DiabetesPedigreeFunction": [0.627, 0.351, 0.672],
-    "Age": [50, 31, 32],
-    "Outcome": [1, 0, 1],
-}
-```
+Data Source : https://github.com/ShadiM0hamed/Diabetes_ML-DL/tree/main
 
 ## Models Used
 
