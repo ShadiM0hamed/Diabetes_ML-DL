@@ -89,11 +89,7 @@ Gradio is used to create an interactive web interface that allows users to input
 
 1. Clone the repository or download the script.
 2. Install the necessary libraries using `pip install -r requirements.txt`.
-3. Run the script:
-
-```bash
-python diabetes_prediction.py
-```
+3. Run the script.
 
 This will launch the Gradio interface in your browser.
 
